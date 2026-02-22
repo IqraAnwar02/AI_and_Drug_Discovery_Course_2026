@@ -1,0 +1,6 @@
+Descriptor,Statistics,p,alpha,Interpretation
+MW,633.0,0.5482218005679995,0.05,Same distribution (fail to reject H0)
+NumHAcceptors,995.0,0.0009958949784028,0.05,Different distribution (reject H0)
+LogP,668.0,0.819271101733906,0.05,Same distribution (fail to reject H0)
+pIC50,1380.0,2.1980274859502578e-13,0.05,Different distribution (reject H0)
+NumHDonors,787.5,0.2856482311911359,0.05,Same distribution (fail to reject H0)
